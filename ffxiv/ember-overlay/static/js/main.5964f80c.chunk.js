@@ -69296,7 +69296,7 @@
                                         ref: function (t) {
                                             return e.instance = t
                                         }
-                                    }, s.a.createElement("h3", null, "Latest Changes"), this.state.changelog)
+                                    }, s.a.createElement("h3", null, "Ember Overlay"), this.getInfoText(), s.a.createElement("h3", null, "Latest Changes"), this.state.changelog)
                                 }
                             }, {
                                 key: "getInfoText",
