@@ -69829,12 +69829,12 @@
                                     var e = f.a.getState();
                                     if (e.internal.game && e.internal.game.Encounter) {
                                         var t = {
-                                            username: "Ember Overlay & Spell Timers",
-                                            avatar_url: "https://i.imgur.com/g2Heqn5.png",
+                                            username: "Kuro Zamerah",
+                                            avatar_url: "https://i.imgur.com/VqKHVK9.png",
                                             embeds: [{
                                                     title: "Encounter: {{encounter}}",
                                                     type: "rich",
-                                                    description: "Powered by [Ember](https://github.com/GoldenChrysus/ffxiv-ember-overlay).\n\n*Duration: {{duration}}*",
+                                                    description: "*Duration: {{duration}}*",
                                                     color: 7419530,
                                                     thumbnail: {
                                                         url: "https://i.imgur.com/p6oH6xe.png"
